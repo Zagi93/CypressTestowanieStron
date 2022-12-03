@@ -22,7 +22,7 @@
     "automatyczne",
     "kurs"
   ],
-  "author": "Rafał Podraz",
+  "author": "Jan Zag93",
   "license": "ISC",
   "dependencies": {
     "cypress": "^9.5.1",
